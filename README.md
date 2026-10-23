@@ -1,6 +1,8 @@
 # 🌐 Free Domain Names — A Curated List
 
-Legit ways to get a domain (or a proper subdomain) for **free** in 2026 — no scams, no expired tricks. Every entry in this list was manually verified as working in **October 2026**.
+[![Stars](https://img.shields.io/github/stars/ajayshivhare875/freedomains?style=flat)](https://github.com/ajayshivhare875/freedomains/stargazers) [![Forks](https://img.shields.io/github/forks/ajayshivhare875/freedomains?style=flat)](https://github.com/ajayshivhare875/freedomains/network/members) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+Legit ways to get a domain (or a proper subdomain) for **free** in 2026 — no scams, no expired tricks. Every entry in this list was manually verified as working in **October 2026**. Whether you need a **free domain name** for a portfolio, a **free .me domain** as a student, a **free subdomain** for a side project, or a working **Freenom alternative** — it's here.
 
 > ⚠️ **Read the [Dead / Avoid](#️-dead--avoid-old-posts-still-recommend-these) section before trusting any similar list.** The internet is full of outdated posts recommending services that shut down years ago.
 
@@ -74,6 +76,22 @@ Machine-readable version: [`sites.json`](sites.json)
 - **Student?** The GitHub Student Pack is the single best deal here: real domains (.me / .tech / Name.com picks) for free.
 - **Need it today?** is-a.dev and dpdns.org are the fastest. EU.org is the most "permanent" but the slowest.
 - Always keep your site easy to migrate (your own code + backups), so a dead free domain never kills your project.
+
+---
+
+## ❓ FAQ
+
+**How can I get a free domain name in 2026?**
+The fastest legit routes: the **GitHub Student Developer Pack** (free .me / .tech domains for students), **EU.org** (free forever, but manual review is slow), **PP.UA**, or a free developer subdomain from **is-a.dev** or **dpdns.org**. All are listed above with their catches.
+
+**Is Freenom still free?**
+No. Freenom's free domains (.tk, .ml, .ga, .cf, .gq) shut down — registrations paused in 2023 and the free program ended in 2024. Any post still recommending Freenom as free is outdated.
+
+**What is the best Freenom alternative?**
+For subdomains: **dpdns.org** and **is-a.dev**. For a permanent free name of your own: **EU.org**. For students: the **GitHub Student Pack** beats everything — real domains, free for a year.
+
+**Should I use a free domain for a business?**
+For testing and side projects, yes. For a business that earns money, buy a real domain (a .com is roughly ₹800–1,000/year) — free programs can shut down and take your address with them, exactly like Freenom did.
 
 ---
 
